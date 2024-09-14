@@ -1,0 +1,42 @@
+form{
+    border: solid 1px;
+    width: 600px;
+    margin-left: 300px;
+    background-color: rgb(118, 150, 156);
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+h1{
+    color: rgb(0, 168, 247);
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    color: black;
+    font-size: 20px;
+}
+label{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    border-radius: 30px;
+}
+input{
+    height: 40px;
+    width: 350px;
+    border-radius: 30px;
+}
+textarea{
+    height: 80px;
+    width: 350px;
+    border-radius: 30px;
+}
+button{
+    height: 40px;
+    width: 80px;
+    color: rgb(155, 127, 255);
+    font-weight: bold;
+    background-color: black;
+    border-radius: 20px;
+
+}
